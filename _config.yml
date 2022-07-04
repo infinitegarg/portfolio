@@ -35,8 +35,8 @@ plugins:
   - jekyll-feed
 
 
-baseurl: /portfolio
-url: http://infinitegarg.github.io
+baseurl: ''
+url: http://anant.design
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
