@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 
-baseurl: /infinitegarg
+baseurl: /portfolio
 url: http://infinitegarg.github.io
 # Exclude from processing.
 # The following items will not be processed, by default.
