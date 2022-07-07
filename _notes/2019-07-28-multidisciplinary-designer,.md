@@ -7,8 +7,8 @@ image: '../img/frame1.png'
 ---
 
 
-#### TLDR;
-> Work at a startup and you’ll get to learn a lot. Yes, it will be fast paced and you might end up giving your weekends but it’ll help you grow. 
+
+> **TLDR;** Work at a startup and you’ll get to learn a lot. Yes, it will be fast paced and you might end up giving your weekends but it’ll help you grow. 
 
 <br>
 
@@ -26,7 +26,7 @@ Eventually, I worked unofficially at different roles. I’ll try to jot down my 
 
 <br><br>
 
-#### Frontend Developer
+### Frontend Developer
 Many things are being said for designers who code. I believe it is an added advantage since it lets you do a very different kind of research before designing. Things such as feasibility, tech challenges, scalability, code reusability etc. become a part of design thinking which helps in the development life cycle and making the product a success.
 
 As a designer, I’m always keen on providing pixel perfect UIs as per the design including all the functionalities to provide the user a better experience. I worked on different kinds of projects.
@@ -46,7 +46,7 @@ I was part of two projects - A webapp to compare hospitals in US and other to cr
 
 <br><br>
 
-#### Backend Developer
+### Backend Developer
 Back in the college, I started backend with php but I never liked it. That was the end of backend development for me, I thought. But things had to go other ways, remember “things never go as planned.”
 
 I was given a task to create a small webapp to monitor the productive hours of employees at our startup. This involved integrating google authentication and creating APIs for the frontend to save the data in MongoDB.
@@ -61,7 +61,7 @@ Fun Fact: Remember the infamous **MongoDB ransomware attack** ? Incidentally, it
 
 
 <br><br>
-#### Motion Graphic Designer
+### Motion Graphic Designer
 Static Illustrations never gave me a feeling of satisfaction. They somehow lack in providing the feel and information. Also, an application without UI micro-interactions is like a song without any music. I started my journey with VFX during college. Yes i was obsessed with Hollywood !
 
 Here I created small UI interactions for the developers and motion graphics for the website.
@@ -72,7 +72,7 @@ Here I created small UI interactions for the developers and motion graphics for 
 
 
 <br><br>
-#### Product Designer
+### Product Designer
 Well, I was hired as one so obviously I was responsible for
 
 
@@ -83,9 +83,9 @@ Well, I was hired as one so obviously I was responsible for
 - Creating mockups and prototyping
 - Gathering feedback
 - Planning marketing and business with the stakeholders
-
-Techs known before this: Photoshop, Illustrator, Sketch  
-Techs which I learnt: Invision, Zeplin, Abstract, Invision Studio, Framer, draw.io
+<br><br>
+- Techs known before this: Photoshop, Illustrator, Sketch  
+- Techs which I learnt: Invision, Zeplin, Abstract, Invision Studio, Framer, draw.io
 
 <br><br><br>
 All of this helped me improve my skills and made me have a better understanding of the product development journey at each step. This allows me to communicate better with my teammates, have empathy towards them and create awesome user experiences.

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: reflections
-permalink: /reflections/
+title: memo
+permalink: /memo/
 ---
 
     {%- if site.notes.size > 0 -%}
