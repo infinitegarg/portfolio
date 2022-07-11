@@ -6,6 +6,10 @@ body{
 	background: white !important;
 }
 
+h4{
+	font-weight: 500;
+}
+
 p{
 	margin-bottom: 28px;
 }
@@ -197,6 +201,14 @@ font-family: 'Lora', serif;
 .post-content img{
 	border-radius: 16px;
 }
+
+
+.post-content p .post-image{
+	 max-width: 70vw;
+  position: relative;
+  left: calc(-35vw + 50%);
+}
+
 
 .footer-col-wrapper{
 	display: flex;
