@@ -52,7 +52,7 @@ layout: default
 
       {%- if site.notes.size > 0 -%}
       <ul class="note-list">
-        {%- for post in site.notes -%}
+        {%- for post in site.notes reversed -%}
         <li>
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           
@@ -71,5 +71,5 @@ layout: default
         {%- endfor -%}
       </ul>
     {%- endif -%}
-    <a href="/memo">view more records</a>
+    <!-- <a href="/memo">view more records</a> -->
   </div>

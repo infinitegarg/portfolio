@@ -180,7 +180,7 @@ blockquote {
     font-style: normal;
     font-size: 16px;
 	color: #3C4043;
-	background: #CDF0EA;
+	background: #F4F6FF;
 }
 
 .post-title{
@@ -215,6 +215,22 @@ max-width: 90vw;
     position: relative;
     margin-left: calc(-45vw + 50%);
     }
+
+@media screen and (max-width: 600px) {
+
+	.post-content p .post-image{
+    	margin-left: 0;
+	 	max-width: 94vw;
+	}
+
+
+	.post-content p .post-image-full{
+		max-width: 94vw;
+    	margin-left: 0;
+    }
+
+	
+}
 
 
 .footer-col-wrapper{

@@ -1,0 +1,45 @@
+I"�
+<p><img src="/img/dp360/post-dynamic-360.png" alt="image tooltip here" />
+<br />
+<br />
+<br /></p>
+<h3 id="summary">Summary</h3>
+
+<p>Care Managers help patients in their care journey by interacting with them using personalized protocols based on conditions or events (like hospital discharge). This helps to keep a check on the patient’s health and allows tracking for the health systems to take the right path.</p>
+
+<p>While care managers are completing tasks in the care protocols, they need to access to the patient’s clinical and personal details quite frequently. This leads to them switching tabs and losing the context of the task at hand.</p>
+
+<p><br />
+<img class="post-image-full" src="/img/dp360/dp360.png" /></p>
+
+<p><br /></p>
+
+<h3 id="getting-the-right-data">Getting the right data</h3>
+<p>It started with leading a series of workshops and customer/SME interviews to gather insights on the data points that are most important to see while working on different protocols. Those were then clubbed together to consume more efficiently.</p>
+
+<!-- ![image tooltip here](/img/dp360/dp360-miro.png) -->
+<p><img class="post-image" src="/img/dp360/dp360-miro.png" /></p>
+
+<p><br /></p>
+<h3 id="playing-nice-in-the-sandbox">Playing nice in the sandbox</h3>
+<p>Given this was an extension to another product handled by a different team, expectations were managed to build a framework on top of it and identify challenges like responsiveness, page load time, database sync etc.</p>
+
+<p><br /></p>
+<h3 id="impressions-of-the-initial-set-of-users">Impressions of the initial set of users?</h3>
+<p>A series of task-oriented interviews were conducted to validate feature efficiency and adoption. The results were quite promising along with a few suggestions about how and what information we’re displaying.</p>
+
+<p><br /></p>
+<h3 id="designing-for-scale">Designing for scale</h3>
+<p>We identified a set of standard cards which can be tailor-fitted into existing patient journeys to provide the right information at the right time.</p>
+
+<p>Also, the most interesting part of the idea was to <strong>build a framework</strong> that have numerous potential integration with the entire product suite. The designers and developers could then easily create new cards following a guideline as per their use-cases. Eventually, it was also adopted by our other products like InRef, InReport, Contact Center etc.</p>
+
+<p><img class="post-image" src="/img/dp360/cards.png" />
+<br />
+<br /></p>
+<h3 id="results">Results</h3>
+<ul>
+  <li>avg. time to find relevant data <strong>reduced by 75%</strong></li>
+  <li>events of updating demographic details of patients via sidepanel <strong>increased by 40%</strong></li>
+</ul>
+:ET
