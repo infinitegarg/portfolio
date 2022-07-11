@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-11T17:58:51+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">anant garg</title><subtitle>I’m a Design Manager at Innovaccer, making healthcare more human and simple.</subtitle><entry><title type="html">advanced text-editor to write complex clinical logical expressions</title><link href="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html" rel="alternate" type="text/html" title="advanced text-editor to write complex clinical logical expressions" /><published>2022-07-04T22:13:07+05:30</published><updated>2022-07-04T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html"><![CDATA[<p><img src="/img/post-measure-builder.png" alt="image tooltip here" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-11T18:19:29+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">anant garg</title><subtitle>I’m a Design Manager at Innovaccer, making healthcare more human and simple.</subtitle><entry><title type="html">advanced text-editor to write complex clinical logical expressions</title><link href="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html" rel="alternate" type="text/html" title="advanced text-editor to write complex clinical logical expressions" /><published>2022-07-04T22:13:07+05:30</published><updated>2022-07-04T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html"><![CDATA[<p><img src="/img/post-measure-builder.png" alt="image tooltip here" />
 <br />
 <br />
 <br /></p>
@@ -37,6 +37,9 @@ These initiatives also help better understand the patient’s satisfaction, expe
 
 <p>While care managers are completing tasks in the care protocols, they need to access to the patient’s clinical and personal details quite frequently. This leads to them switching tabs and losing the context of the task at hand.</p>
 
+<p><br />
+<img class="post-image-full" src="/img/dp360/dp360.png" /></p>
+
 <p><br /></p>
 
 <h4 id="getting-the-right-data">Getting the right data</h4>
@@ -64,11 +67,11 @@ These initiatives also help better understand the patient’s satisfaction, expe
 <h4 id="designing-for-scale">Designing for scale</h4>
 <p>We identified a set of standard cards which can be tailor-fitted into existing patient journeys to provide the right information at the right time.</p>
 
-<p><img class="post-image" src="/img/dp360/cards.png" /></p>
-
 <p>Also, the most interesting part of the idea was to <strong>build a framework</strong> that have numerous potential integration with the entire product suite. The designers and developers could then easily create new cards following a guideline as per their use-cases. Eventually, it was also adopted by our other products like InRef, InReport, Contact Center etc.</p>
 
-<p><br /></p>
+<p><img class="post-image" src="/img/dp360/cards.png" />
+<br />
+<br /></p>
 <h3 id="results">Results</h3>
 <ul>
   <li>avg. time spent on care protocols <strong>reduced by 75%</strong></li>

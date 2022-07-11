@@ -206,8 +206,15 @@ font-family: 'Lora', serif;
 .post-content p .post-image{
 	 max-width: 70vw;
   position: relative;
-  left: calc(-35vw + 50%);
+  margin-left: calc(-35vw + 50%);
 }
+
+
+.post-content p .post-image-full{
+max-width: 90vw;
+    position: relative;
+    margin-left: calc(-45vw + 50%);
+    }
 
 
 .footer-col-wrapper{
