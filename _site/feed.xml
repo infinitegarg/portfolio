@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-12T00:41:47+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">anant garg</title><subtitle>I’m a Design Manager at Innovaccer, making healthcare more human and simple.</subtitle><entry><title type="html">advanced text-editor to write complex clinical logical expressions</title><link href="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html" rel="alternate" type="text/html" title="advanced text-editor to write complex clinical logical expressions" /><published>2022-07-04T22:13:07+05:30</published><updated>2022-07-04T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html"><![CDATA[<p><img src="/img/post-measure-builder.png" alt="image tooltip here" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-12T21:14:03+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">anant garg</title><subtitle>I’m a Design Manager at Innovaccer, making healthcare more human and simple.</subtitle><entry><title type="html">advanced text-editor to write complex clinical logical expressions</title><link href="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html" rel="alternate" type="text/html" title="advanced text-editor to write complex clinical logical expressions" /><published>2022-07-04T22:13:07+05:30</published><updated>2022-07-04T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html"><![CDATA[<p><img src="/img/post-measure-builder.png" alt="image tooltip here" />
 <br />
 <br />
 <br /></p>
@@ -95,7 +95,8 @@ These initiatives also help better understand the patient’s satisfaction, expe
 <br />
 Keeping this ideology, we created the onboarding framework</p>
 <h3 id="heed-meaning-pay-attention-to"><strong>H.E.E.D</strong> <em>(meaning: pay attention to)</em></h3>
-<p><br /></p>
+<p><br />
+<img class="post-image" src="/img/onboarding-heed.png" /></p>
 
 <h3 id="hype"><strong>H</strong>ype</h3>
 
@@ -119,7 +120,7 @@ Keeping this ideology, we created the onboarding framework</p>
 
 <p>Care Managers help patients in their care journey by interacting with them using personalized protocols based on conditions or events (like hospital discharge). This helps to keep a check on the patient’s health and allows tracking for the health systems to take the right path.</p>
 
-<p>While care managers are completing tasks in the care protocols, they need to access to the patient’s clinical and personal details quite frequently. This leads to them switching tabs and losing the context of the task at hand.</p>
+<p>While care managers are completing tasks in the care protocols, they need access to the patient’s clinical and personal details quite frequently. This leads to them switching tabs and losing the context of the task at hand.</p>
 
 <p><br />
 <img class="post-image-full" src="/img/dp360/dp360.png" /></p>
@@ -130,7 +131,7 @@ Keeping this ideology, we created the onboarding framework</p>
 <p>It started with leading a series of workshops and customer/SME interviews to gather insights on the data points that are most important to see while working on different protocols. Those were then clubbed together to consume more efficiently.</p>
 
 <!-- ![image tooltip here](/img/dp360/dp360-miro.png) -->
-<p><img class="post-image" src="/img/dp360/dp360-miro.png" /></p>
+<p><img class="" src="/img/dp360/dp360-miro.png" /></p>
 
 <p><br /></p>
 <h3 id="playing-nice-in-the-sandbox">Playing nice in the sandbox</h3>

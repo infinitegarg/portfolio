@@ -41,6 +41,8 @@ One of the key differentiators for a B2B user is retention in the short-term pri
 Keeping this ideology, we created the onboarding framework 
 ### **H.E.E.D** *(meaning: pay attention to)*
 <br>
+<img class="post-image" src="/img/onboarding-heed.png">
+
 
 ### **H**ype
 
