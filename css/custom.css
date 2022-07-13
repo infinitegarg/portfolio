@@ -22,6 +22,8 @@ p{
 	line-height: 96px;
 }
 
+
+
 .site-title{
 	line-height: 96px;
 }
@@ -30,6 +32,24 @@ p{
 .wrapper{
 	max-width: calc(960px - (30px * 2));
 }
+
+@media screen and (max-width: 600px) {
+	.site-nav {
+	    background-color: #fff;
+	    border: none;
+	    margin-top: 6px;
+
+	}	
+
+	.trigger {
+	    display: block;
+	}	
+
+	.site-title{
+		line-height: 64px;
+	}
+}
+
 
 .page-content{
 	padding-top: 16px;
