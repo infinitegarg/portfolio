@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-12T21:25:16+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">anant</title><subtitle>I’m a Design Manager at Innovaccer, making healthcare more human and simple.</subtitle><entry><title type="html">advanced text-editor to write complex clinical logical expressions</title><link href="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html" rel="alternate" type="text/html" title="advanced text-editor to write complex clinical logical expressions" /><published>2022-07-04T22:13:07+05:30</published><updated>2022-07-04T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/advanced-text-editor.html"><![CDATA[<p><img src="/img/post-measure-builder.png" alt="image tooltip here" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-13T15:09:41+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">anant</title><subtitle>I’m a Design Manager at Innovaccer, making healthcare more human and simple.</subtitle><entry><title type="html">advanced text-editor to write complex clinical logical expressions</title><link href="http://localhost:4000/jekyll/update/2021/11/12/advanced-text-editor.html" rel="alternate" type="text/html" title="advanced text-editor to write complex clinical logical expressions" /><published>2021-11-12T22:13:07+05:30</published><updated>2021-11-12T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2021/11/12/advanced-text-editor</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/11/12/advanced-text-editor.html"><![CDATA[<p><img src="/img/post-measure-builder.png" alt="image tooltip here" />
 <br />
 <br />
 <br /></p>
@@ -51,7 +51,49 @@ without the system crashing or losing progress</p>
 
 <h3 id="after-multiple-iterations">After multiple iterations..</h3>
 
-<p>It was one of the most challenging problems that I had encountered that involved a deeper understanding of how the browser DOM functions and how can we work within those limits. Thanks to the dev team for my never-ending list of questions, we finally narrowed it down to the text-editor-based approach.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/measure-builder.png" /><media:content medium="image" url="http://localhost:4000/img/measure-builder.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">using automation to drive patient engagement for the omnichannel future</title><link href="http://localhost:4000/jekyll/update/2022/07/04/communication.html" rel="alternate" type="text/html" title="using automation to drive patient engagement for the omnichannel future" /><published>2022-07-04T22:13:07+05:30</published><updated>2022-07-04T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2022/07/04/communication</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/communication.html"><![CDATA[<p><img src="/img/post-program.png" alt="image tooltip here" />
+<p>It was one of the most challenging problems that I had encountered that involved a deeper understanding of how the browser DOM functions and how can we work within those limits. Thanks to the dev team for my never-ending list of questions, we finally narrowed it down to the text-editor-based approach.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/measure-builder.png" /><media:content medium="image" url="http://localhost:4000/img/measure-builder.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">contextual patient 360° data to help make quicker decisions</title><link href="http://localhost:4000/jekyll/update/2021/09/13/dynamic-360.html" rel="alternate" type="text/html" title="contextual patient 360° data to help make quicker decisions" /><published>2021-09-13T22:13:07+05:30</published><updated>2021-09-13T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2021/09/13/dynamic-360</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/09/13/dynamic-360.html"><![CDATA[<p><img src="/img/dp360/post-dynamic-360.png" alt="image tooltip here" />
+<br />
+<br />
+<br /></p>
+<h3 id="summary">Summary</h3>
+
+<p>Care Managers help patients in their care journey by interacting with them using personalized protocols based on conditions or events (like hospital discharge). This helps to keep a check on the patient’s health and allows tracking for the health systems to take the right path.</p>
+
+<p>While care managers are completing tasks in the care protocols, they need access to the patient’s clinical and personal details quite frequently. This leads to them switching tabs and losing the context of the task at hand.</p>
+
+<p><br />
+<img class="post-image-full" src="/img/dp360/dp360.png" /></p>
+
+<p><br /></p>
+
+<h3 id="getting-the-right-data">Getting the right data</h3>
+<p>It started with leading a series of workshops and customer/SME interviews to gather insights on the data points that are most important to see while working on different protocols. Those were then clubbed together to consume more efficiently.</p>
+
+<!-- ![image tooltip here](/img/dp360/dp360-miro.png) -->
+<p><img class="" src="/img/dp360/dp360-miro.png" /></p>
+
+<p><br /></p>
+<h3 id="playing-nice-in-the-sandbox">Playing nice in the sandbox</h3>
+<p>Given this was an extension to another product handled by a different team, expectations were managed to build a framework on top of it and identify challenges like responsiveness, page load time, database sync etc.</p>
+
+<p><br /></p>
+<h3 id="impressions-of-the-initial-set-of-users">Impressions of the initial set of users?</h3>
+<p>A series of task-oriented interviews were conducted to validate feature efficiency and adoption. The results were quite promising along with a few suggestions about how and what information we’re displaying.</p>
+
+<p><br /></p>
+<h3 id="designing-for-scale">Designing for scale</h3>
+<p>We identified a set of standard cards which can be tailor-fitted into existing patient journeys to provide the right information at the right time.</p>
+
+<p>Also, the most interesting part of the idea was to <strong>build a framework</strong> that have numerous potential integration with the entire product suite. The designers and developers could then easily create new cards following a guideline as per their use-cases. Eventually, it was also adopted by our other products like InRef, InReport, Contact Center etc.</p>
+
+<p><img class="post-image" src="/img/dp360/cards.png" />
+<br />
+<br /></p>
+<h3 id="results">Results</h3>
+<ul>
+  <li>avg. time to find relevant data <strong>reduced by 75%</strong></li>
+  <li>events of updating demographic details of patients via sidepanel <strong>increased by 40%</strong></li>
+</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Summary]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/dp360/dynamic-360.png" /><media:content medium="image" url="http://localhost:4000/img/dp360/dynamic-360.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">using automation to drive patient engagement for the omnichannel future</title><link href="http://localhost:4000/jekyll/update/2021/08/22/communication.html" rel="alternate" type="text/html" title="using automation to drive patient engagement for the omnichannel future" /><published>2021-08-22T22:13:07+05:30</published><updated>2021-08-22T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2021/08/22/communication</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/08/22/communication.html"><![CDATA[<p><img src="/img/post-program.png" alt="image tooltip here" />
 <br />
 <br />
 <br /></p>
@@ -59,7 +101,7 @@ without the system crashing or losing progress</p>
 <p>The Covid-19 pandemic has taught us how important patient communication is, outside of clinical encounters. Using contextual information about the patient in their care journey, providers can build better relationships with them and drive clinical outcomes. Leveraging data, automation, and maintaining a fuller, more complete view of the patient context can help care activities, messaging, and delivery of content.</p>
 
 <p>Design can help visualize the various encounters and important events outside of the clinical setting to stratify and engage better with the patients across channels. 
-These initiatives also help better understand the patient’s satisfaction, experience, and engagement in quantitative terms.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Summary The Covid-19 pandemic has taught us how important patient communication is, outside of clinical encounters. Using contextual information about the patient in their care journey, providers can build better relationships with them and drive clinical outcomes. Leveraging data, automation, and maintaining a fuller, more complete view of the patient context can help care activities, messaging, and delivery of content.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/program.png" /><media:content medium="image" url="http://localhost:4000/img/program.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">building an onboarding framework for B2B products</title><link href="http://localhost:4000/jekyll/update/2022/07/04/onboarding.html" rel="alternate" type="text/html" title="building an onboarding framework for B2B products" /><published>2022-07-04T22:13:07+05:30</published><updated>2022-07-04T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2022/07/04/onboarding</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/onboarding.html"><![CDATA[<p><img src="/img/post-onboarding-framework.png" alt="image tooltip here" />
+These initiatives also help better understand the patient’s satisfaction, experience, and engagement in quantitative terms.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Summary The Covid-19 pandemic has taught us how important patient communication is, outside of clinical encounters. Using contextual information about the patient in their care journey, providers can build better relationships with them and drive clinical outcomes. Leveraging data, automation, and maintaining a fuller, more complete view of the patient context can help care activities, messaging, and delivery of content.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/program.png" /><media:content medium="image" url="http://localhost:4000/img/program.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">building an onboarding framework for B2B products</title><link href="http://localhost:4000/jekyll/update/2021/07/07/onboarding.html" rel="alternate" type="text/html" title="building an onboarding framework for B2B products" /><published>2021-07-07T22:13:07+05:30</published><updated>2021-07-07T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2021/07/07/onboarding</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/07/07/onboarding.html"><![CDATA[<p><img src="/img/post-onboarding-framework.png" alt="image tooltip here" />
 <br />
 <br />
 <br /></p>
@@ -112,46 +154,4 @@ Keeping this ideology, we created the onboarding framework</p>
 
 <h3 id="device"><strong>D</strong>evice</h3>
 
-<p>One of the most important aspects of B2B products is to device the user for their own help. Quick contextual educational content and support is a must whenever they get stuck</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Summary]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/onboarding-framework.png" /><media:content medium="image" url="http://localhost:4000/img/onboarding-framework.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">contextual patient 360° data to help make quicker decisions</title><link href="http://localhost:4000/jekyll/update/2022/07/04/dynamic-360.html" rel="alternate" type="text/html" title="contextual patient 360° data to help make quicker decisions" /><published>2022-07-04T22:13:07+05:30</published><updated>2022-07-04T22:13:07+05:30</updated><id>http://localhost:4000/jekyll/update/2022/07/04/dynamic-360</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2022/07/04/dynamic-360.html"><![CDATA[<p><img src="/img/dp360/post-dynamic-360.png" alt="image tooltip here" />
-<br />
-<br />
-<br /></p>
-<h3 id="summary">Summary</h3>
-
-<p>Care Managers help patients in their care journey by interacting with them using personalized protocols based on conditions or events (like hospital discharge). This helps to keep a check on the patient’s health and allows tracking for the health systems to take the right path.</p>
-
-<p>While care managers are completing tasks in the care protocols, they need access to the patient’s clinical and personal details quite frequently. This leads to them switching tabs and losing the context of the task at hand.</p>
-
-<p><br />
-<img class="post-image-full" src="/img/dp360/dp360.png" /></p>
-
-<p><br /></p>
-
-<h3 id="getting-the-right-data">Getting the right data</h3>
-<p>It started with leading a series of workshops and customer/SME interviews to gather insights on the data points that are most important to see while working on different protocols. Those were then clubbed together to consume more efficiently.</p>
-
-<!-- ![image tooltip here](/img/dp360/dp360-miro.png) -->
-<p><img class="" src="/img/dp360/dp360-miro.png" /></p>
-
-<p><br /></p>
-<h3 id="playing-nice-in-the-sandbox">Playing nice in the sandbox</h3>
-<p>Given this was an extension to another product handled by a different team, expectations were managed to build a framework on top of it and identify challenges like responsiveness, page load time, database sync etc.</p>
-
-<p><br /></p>
-<h3 id="impressions-of-the-initial-set-of-users">Impressions of the initial set of users?</h3>
-<p>A series of task-oriented interviews were conducted to validate feature efficiency and adoption. The results were quite promising along with a few suggestions about how and what information we’re displaying.</p>
-
-<p><br /></p>
-<h3 id="designing-for-scale">Designing for scale</h3>
-<p>We identified a set of standard cards which can be tailor-fitted into existing patient journeys to provide the right information at the right time.</p>
-
-<p>Also, the most interesting part of the idea was to <strong>build a framework</strong> that have numerous potential integration with the entire product suite. The designers and developers could then easily create new cards following a guideline as per their use-cases. Eventually, it was also adopted by our other products like InRef, InReport, Contact Center etc.</p>
-
-<p><img class="post-image" src="/img/dp360/cards.png" />
-<br />
-<br /></p>
-<h3 id="results">Results</h3>
-<ul>
-  <li>avg. time to find relevant data <strong>reduced by 75%</strong></li>
-  <li>events of updating demographic details of patients via sidepanel <strong>increased by 40%</strong></li>
-</ul>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Summary]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/dp360/dynamic-360.png" /><media:content medium="image" url="http://localhost:4000/img/dp360/dynamic-360.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>One of the most important aspects of B2B products is to device the user for their own help. Quick contextual educational content and support is a must whenever they get stuck</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Summary]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/img/onboarding-framework.png" /><media:content medium="image" url="http://localhost:4000/img/onboarding-framework.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

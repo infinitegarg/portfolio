@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "growing into design leadership"
-date:   2021-10-05 18:10:12 +0530
+date:   2022-01-07 18:10:12 +0530
 categories: notes update
 image: '../img/frame1.png'
 ---

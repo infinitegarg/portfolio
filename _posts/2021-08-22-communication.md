@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "using automation to drive patient engagement for the omnichannel future"
-date:   2022-07-04 22:13:07 +0530
+date:   2021-08-22 22:13:07 +0530
 categories: jekyll update
 image: '../img/program.png'
 ---

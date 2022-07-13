@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "advanced text-editor to write complex clinical logical expressions"
-date:   2022-07-04 22:13:07 +0530
+date:   2021-11-12 22:13:07 +0530
 categories: jekyll update
 image: '../img/measure-builder.png'
 sequence: 1

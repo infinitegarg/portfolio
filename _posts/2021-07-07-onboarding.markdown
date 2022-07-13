@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "building an onboarding framework for B2B products"
-date:   2022-07-04 22:13:07 +0530
+date:   2021-07-07 22:13:07 +0530
 categories: jekyll update
 image: '../img/onboarding-framework.png'
 ---
