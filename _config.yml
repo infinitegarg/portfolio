@@ -33,6 +33,9 @@ plugins:
   - jekyll-feed
 
 
+# Google Analytics
+google_analytics: G-103YVE74CC
+
 baseurl: ''
 url: http://anant.design
 
